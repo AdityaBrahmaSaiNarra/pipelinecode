@@ -1,0 +1,8 @@
+pipeline
+{
+stage
+{
+steps{
+echo"this is product developement"
+}
+}
